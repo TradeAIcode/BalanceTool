@@ -78,10 +78,10 @@ Los endpoints RPC son las conexiones con las redes. Puedes usar:
 ## 📷 Capturas
 
 ### ✅ Ventana principal
-![Principal](images/PRINCIPAL.jpg)
+![Principal](imagenes/principal.jpg)
 
 ### ⚙️ Configuración
-![Configuración](images/CONFIGURACION.jpg)
+![Configuración](imagenes/configuracion.jpg)
 
 ---
 
